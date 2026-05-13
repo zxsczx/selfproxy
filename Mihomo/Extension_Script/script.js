@@ -69,7 +69,7 @@ const GENERATED_HOSTS = {
         "2400:3200:baba::1",
         "2400:3200::1"
     ],
-    "cdn.jsdelivr.net": "cdn.jsdelivr.net.cdn.cloudflare.net",
+    "cdn.jsdelivr.net": "testingcf.jsdelivr.net",
     // GENERATED HOSTS END
 };
 
